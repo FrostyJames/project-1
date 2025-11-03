@@ -1,0 +1,14 @@
+.body{
+background-color: rgb(173, 151, 151);
+}
+
+h1{
+    font: bolder;
+    font-weight: bold;
+    font-style: italic;
+}
+
+#greetings{
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
